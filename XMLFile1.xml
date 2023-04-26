@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rootNode text="Компания" vid="0" tag="0">
+	<node text="Восточный" vid="1" tag="1">
+		<node text="Бухгалтерия" vid="2" tag="11" />
+		<node text="Кадры" vid="3" tag="12" />
+		<node text="Производство" vid="4" tag="13" />
+	</node>
+	<node text="Южный" vid="1" tag="2">
+		<node text="Бухгалтерия" vid="2" tag="21" />
+		<node text="Кадры" vid="3" tag="22" />
+		<node text="Производство" vid="4" tag="23" />
+	</node>
+	<node text="Западный" vid="1" tag="3">
+		<node text="Бухгалтерия" vid="2" tag="31" />
+		<node text="Кадры" vid="3" tag="32" />
+		<node text="Производство" vid="4" tag="33" />
+	</node>
+	<node text="Северный" vid="1" tag="4">
+		<node text="Бухгалтерия" vid="2" tag="41" />
+		<node text="Кадры" vid="3" tag="42" />
+		<node text="Производство" vid="4" tag="43" />
+	</node>
+	<node text="Центральный" vid="1" tag="5">
+		<node text="Бухгалтерия" vid="2" tag="51" />
+		<node text="Кадры" vid="3" tag="52" />
+		<node text="Производство" vid="4" tag="53" />
+	</node>
+</rootNode>
